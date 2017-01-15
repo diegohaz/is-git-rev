@@ -1,6 +1,6 @@
 {
   "name": "is-git-rev",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Verify if a string is a git-rev hash",
   "license": "MIT",
   "repository": "diegohaz/is-git-rev",
